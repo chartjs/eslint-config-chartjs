@@ -5,7 +5,7 @@ Chart.js [shareable ESLint config](http://eslint.org/docs/developer-guide/sharea
 ## Installation
 
 ```
-$ npm install --save-dev https://github.com/chartjs/eslint-config-chartjs.git
+$ npm install --save-dev eslint-config-chartjs
 ```
 
 ## Usage
