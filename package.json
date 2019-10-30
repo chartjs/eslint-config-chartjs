@@ -2,8 +2,8 @@
   "name": "eslint-config-chartjs",
   "description": "Chart.js shareable ESLint config",
   "repository": "chartjs/eslint-config-chartjs",
-  "homepage": "http://www.chartjs.org",
-  "version": "0.1.0",
+  "homepage": "https://www.chartjs.org",
+  "version": "0.2.0",
   "license": "MIT",
   "main": ".eslintrc.yml"
 }
