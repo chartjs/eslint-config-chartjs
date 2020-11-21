@@ -4,8 +4,8 @@ Chart.js [shareable ESLint config](http://eslint.org/docs/developer-guide/sharea
 
 ## Installation
 
-```
-$ npm install --save-dev eslint-config-chartjs
+```sh
+npm install --save-dev eslint-config-chartjs
 ```
 
 ## Usage
@@ -16,5 +16,5 @@ Once the `eslint-config-chartjs` package is installed, you can use it by specify
 extends: chartjs
 
 rules:
-    # Additional, per-project rules...
+  # Additional, per-project rules...
 ```

@@ -132,7 +132,7 @@ rules:
   func-style: 0
   id-length: 0
   id-match: 0
-  indent: [2, tab, {flatTernaryExpressions: true}]
+  indent: [2, 2, {flatTernaryExpressions: true}]
   jsx-quotes: 0
   key-spacing: 2
   keyword-spacing: 2
